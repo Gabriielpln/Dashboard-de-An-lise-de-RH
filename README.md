@@ -35,7 +35,7 @@ O dashboard oferece as seguintes visualizações e filtros interativos:
 ## Como Utilizar
 Visualização Online:
 
-- Acesse o dashboard interativo diretamente pelo https://app.powerbi.com/view?r=eyJrIjoiMmJkZDRjNmQtMGJmZS00YTViLTkzZmItYTc2MmEyMmU1NzhlIiwidCI6IjRmY2I1ZmRiLWNmMDAtNDNlYi04NjQ5LTc1MzcyZmE1NDlhMCJ9.
+- Acesse o dashboard interativo diretamente pelo https://app.powerbi.com/view?r=eyJrIjoiMWRmZGNlMzUtZGViMi00MDAxLWI1YWQtZWE3MTBlNDRlZjgxIiwidCI6IjRmY2I1ZmRiLWNmMDAtNDNlYi04NjQ5LTc1MzcyZmE1NDlhMCJ9
 
 Filtros Interativos:
 
